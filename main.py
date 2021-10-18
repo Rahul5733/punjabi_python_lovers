@@ -13,3 +13,8 @@ def hello_world2():
 @app.route("/manmohanwaris")
 def hello_world3():
     return "<h1>cheti kar serwan puttra!</h1><h2>wdia gana!</h2><p>written by totu abd sabng by the legend sujeet patar!</p>"
+
+
+@app.route("/moosewala")
+def hello_world3():
+    return "<h1>cheti kar serwan puttra!</h1><h2>wdia gana!</h2><p>written by totu abd sabng by the legend moose wala!</p>"
