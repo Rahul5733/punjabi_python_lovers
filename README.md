@@ -1,4 +1,5 @@
 # punjabi_python_lovers
+This is for absolute beginners, based on the youtube tutorials made.
 This is an open source project for python enthusiasts, a road to build community of the pythoners who love punjabi language too
 
 ## How to contribute 
